@@ -54,7 +54,7 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 
 - **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
 - **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT () and AVG () into my data-summarizing sidekicks.
--- **Analytical Wizardly:** Leveled up my real-world puzzle solving skills, turning questions into actionable, insightful SQL queries. 
+- **Analytical Wizardly:** Leveled up my real-world puzzle solving skills, turning questions into actionable, insightful SQL queries. 
 
 # Conclusions 
 
